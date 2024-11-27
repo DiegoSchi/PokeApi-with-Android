@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Poke Api</string>
+    <string name="app_title">Random Pokemon</string>
+    <string name="image_description">Pokemon Sprite</string>
+    <string name="pokemon_name">[Pokemon Name Here]</string>
+    <string name="button_random">Random</string>
+
+</resources>
