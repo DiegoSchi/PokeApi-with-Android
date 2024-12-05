@@ -41,6 +41,9 @@ android {
 
 dependencies {
 
+    //Viewmodel
+    implementation (libs.lifecycle.viewmodel)
+
     //Corrutines
     implementation (libs.kotlinx.coroutines.core)
     implementation (libs.kotlinx.coroutines.android)

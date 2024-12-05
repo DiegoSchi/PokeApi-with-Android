@@ -44,4 +44,4 @@ data class PokemonTestModel(
     val types: List<Type>,
     @SerializedName("weight")
     val weight: Int
-)
+) : List<PokemonTestModel>
